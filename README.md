@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/PharaohBoi">PharaohBoi</a></h1>
 <h3 align="center">Just a human who wants to learn</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pharaohboi&label=Profile%20views&color=0e75b6&style=flat" alt="pharaohboi" /> </p>
-
-<p align="left"> <a href="https://twitter.com/pharaoh_boy" target="blank"><img src="https://img.shields.io/twitter/follow/pharaoh_boy?logo=twitter&style=for-the-badge" alt="pharaoh_boy" /></a> </p>
+<p align="left"> <a href="https://twitter.com/pharaoh_boy" target="blank"><img src="https://img.shields.io/twitter/follow/pharaoh_boy?logo=twitter&style=for-the-badge" alt="pharaoh_boy" /></a> <img src="https://komarev.com/ghpvc/?username=pharaohboi&label=Profile%20views&color=0e75b6&style=flat" alt="pharaohboi" /> </p>
 
 - 🌱 I’m currently learning **Frameworks,Fish shell**
 
