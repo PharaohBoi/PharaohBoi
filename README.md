@@ -3,7 +3,7 @@
 
 <p alitn="left"> <img src="https://komarev.com/ghpvc/?username=pharaohboi&label=Profile%20views&color=0e75b6&style=flat" alt="pharaohboi"> </p>
 
-![](https://i.postimg.cc/8zDx230f/github-banner.gif)
+![](https://i.postimg.cc/FHCgyWwJ/Profile-Banner.gif)
 
 <p align="left"> <a href="https://twitter.com/pharaoh_boy" target="blank"><img src="https://img.shields.io/twitter/follow/pharaoh_boy?logo=twitter&style=for-the-badge" alt="pharaoh_boy" /></a> </p>
 
