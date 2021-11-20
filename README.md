@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/PharaohBoi">PharaohBoi</a></h1>
 <h3 align="center">Just a human who wants to learn</h3>
 
-[Thank you for visiting this profile](https://pbs.twimg.com/profile_banners/1421992072404369408/1627865014/600x200)
+![](https://pbs.twimg.com/profile_banners/1421992072404369408/1627865014/600x200)
 
 <p alitn="left"> <img src="https://komarev.com/ghpvc/?username=pharaohboi&label=Profile%20views&color=0e75b6&style=flat" alt="pharaohboi"> </p>
 
