@@ -1,4 +1,4 @@
-### Yo Sup it's Meh! <a href="https://github.com/PharaohBoi">PharaohBoi</a> 👋
+### Yo Sup it's Meh! [PharaohBoi](https://github.com/PharaohBoi) 👋
 
 <!--
 **PharaohBoi/PharaohBoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
