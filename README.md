@@ -19,6 +19,7 @@
 <h1 align="left">🤨❓ Can i use an existing repo ?</h1>
 <p align="left">of course you can use all the repos here for free, provided you don't abuse and recode the code, don't delete the credits inside!</p>
 
+<h1><i><strong>STAY COOL!</strong></i></h1>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
