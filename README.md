@@ -10,6 +10,9 @@
 
 <p align="left"> <a href="https://twitter.com/pharaoh_boy" target="blank"><img src="https://img.shields.io/twitter/follow/pharaoh_boy?logo=twitter&style=for-the-badge" alt="pharaoh_boy" /></a> </p>
 
+<h3 align="left">Can i use an existing repo ?</h3>
+<p align="center">of course you can use all the repos here for free, provided you don't abuse and recode the code, don't delete the credits inside!</p>
+
 - 🌱 I’m currently learning **Frameworks,Fish shell**
 
 - 💬 Ask me about **World :)**
