@@ -5,9 +5,9 @@
 
 ![](https://i.postimg.cc/FHCgyWwJ/Profile-Banner.gif)
 
+<h3 align="left">About me!</h3>
 <p align="left">Yo!, I'm <a href="https//github.com/PharaohBoi">PharaohBoi</a> but you can call me <strong>Kiv</strong>. I'm 17 years old, still young right? I'm a free lancer btw, i like to do whatever i want like coding and others. I guess everything I wrote was not important, but well welcome to my GitHUB!</p>
 
-<h3 align="left">About me!</h3>
 <p align="left"> <a href="https://twitter.com/pharaoh_boy" target="blank"><img src="https://img.shields.io/twitter/follow/pharaoh_boy?logo=twitter&style=for-the-badge" alt="pharaoh_boy" /></a> </p>
 
 - 🌱 I’m currently learning **Frameworks,Fish shell**
