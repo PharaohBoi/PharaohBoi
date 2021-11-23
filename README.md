@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="https://github.com/PharaohBoi">PharaohBoi</a></h1>
+<h1 align="center"><i>Hi 👋, I'm <a href="https://github.com/PharaohBoi">PharaohBoi</i></a></h1>
 <h3 align="center">Just a human who wants to learn</h3>
 
 <p alitn="left"> <img src="https://komarev.com/ghpvc/?username=pharaohboi&label=Profile%20views&color=0e75b6&style=flat" alt="pharaohboi"> </p>
@@ -19,7 +19,7 @@
 <h1 align="left">🤨❓ Can i use an existing repo ?</h1>
 <p align="left">of course you can use all the repos here for free, provided you don't abuse and recode the code, don't delete the credits inside!</p>
 
-<h1><i><strong>STAY COOL!</strong></i></h1>
+<h1 align="center"><i><strong>STAY COOL!</strong></i></h1>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
